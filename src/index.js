@@ -1,11 +1,5 @@
 'use strict';
 
-/**
- * 
- */
-
-// let events = {};
-
 module.exports = class {
 
 	constructor() {
