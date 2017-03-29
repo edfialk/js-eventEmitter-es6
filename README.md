@@ -1,7 +1,7 @@
 *A simple Javascript Event Emitter written in EcmaScript 2015*
 
 
-This is a test library not been added to npm. Clone this repository to use.
+This is a test library not added to npm. Clone this repository to use.
 
 
 ### Test
