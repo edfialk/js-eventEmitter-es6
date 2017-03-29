@@ -8,6 +8,15 @@ This library has not been added to npm.
 
     git clone https://github.com/edfialk/js-eventEmitter-es6
 
+### Test
+
+    npm run test
+    
+### Build
+
+    npm run build
+    npm run watch
+
 ### Usage
 
     import EventEmitter from 'src';
