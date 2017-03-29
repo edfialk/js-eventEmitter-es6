@@ -1,8 +1,12 @@
 *A simple Javascript Event Emitter written in EcmaScript 2015*
 
 
-This is a test library not added to npm. Clone this repository to use.
+This is a test library not added to npm.
 
+### Install
+
+    git clone https://github.com/edfialk/js-eventEmitter-es6
+    npm install
 
 ### Test
 
